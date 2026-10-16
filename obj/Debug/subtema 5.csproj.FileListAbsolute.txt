@@ -1,0 +1,7 @@
+D:\SEMANA 3 PYTHON\subtema 5\bin\Debug\subtema 5.exe.config
+D:\SEMANA 3 PYTHON\subtema 5\bin\Debug\subtema 5.exe
+D:\SEMANA 3 PYTHON\subtema 5\bin\Debug\subtema 5.pdb
+D:\SEMANA 3 PYTHON\subtema 5\obj\Debug\subtema 5.csproj.AssemblyReference.cache
+D:\SEMANA 3 PYTHON\subtema 5\obj\Debug\subtema 5.csproj.CoreCompileInputs.cache
+D:\SEMANA 3 PYTHON\subtema 5\obj\Debug\subtema 5.exe
+D:\SEMANA 3 PYTHON\subtema 5\obj\Debug\subtema 5.pdb
